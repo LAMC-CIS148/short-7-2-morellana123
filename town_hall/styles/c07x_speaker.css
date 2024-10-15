@@ -106,7 +106,6 @@ footer p {
 	padding: 1em 0;
 }
 
-
 * { margin: 0;
    padding: 0; }
 
@@ -129,3 +128,11 @@ footer p {
 
 #nav_list ul li a.current {
 	background-color: silver; }
+
+a:link {
+	color: black;
+}
+a:hover, a:focus {
+	text-decoration: none;
+	font-size:115%;
+}
